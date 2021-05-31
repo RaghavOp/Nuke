@@ -1,0 +1,15 @@
+{
+  "name": "dark45servernuker",
+  "version": "1.0.0",
+  "description": "| Presser |  | ------------- |  | ![Presser](https://media.discordapp.net/attachments/782211616350404611/800697767659962368/unknown.png) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
